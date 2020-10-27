@@ -1,7 +1,7 @@
 {
     "Author": "Windows Azure Product Team Scripts",
     "ContentSize": 52046,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms-(iis-frontend-and-mongodb-backend)/master/New-AzureMongoDbApp.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms--iis-frontend-and-mongodb-backend-/master/New-AzureMongoDbApp.ps1",
     "DownloadCount": 2063,
     "Id": "Deploy-a-Web-App-to-Two-99f1a3bc",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "Creates two virtual machines; a front-end Windows Server and a back-end MongoDB server.  The front-end server is configured with the Web Platform Installer, which is then used to install IIS.",
     "Title": "Deploy a Web App to Two Windows Azure VMs (IIS Frontend and MongoDB Backend)",
     "UpdatedDate": "2014-10-16T00:00:00",
-    "Url": "https://github.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms-(iis-frontend-and-mongodb-backend)",
+    "Url": "https://github.com/azureautomation/deploy-a-web-app-to-two-windows-azure-vms--iis-frontend-and-mongodb-backend-",
     "UserTags": "Provisioning"
 }
